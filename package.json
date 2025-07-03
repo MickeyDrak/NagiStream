@@ -1,0 +1,45 @@
+{
+  "name": "nagistream",
+  "version": "1.0.0",
+  "description": "Plataforma moderna para la venta de servicios digitales premium",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server --port=3000",
+    "build": "echo 'Build completado - archivos estáticos listos'",
+    "test": "echo 'No hay tests configurados'"
+  },
+  "keywords": [
+    "streaming",
+    "servicios-digitales",
+    "netflix",
+    "spotify",
+    "canva",
+    "iptv",
+    "landing-page",
+    "responsive",
+    "modern-ui"
+  ],
+  "author": "NagiStream Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/nagistream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tu-usuario/nagistream/issues"
+  },
+  "homepage": "https://nagistream.com",
+  "devDependencies": {
+    "serve": "^14.2.0",
+    "live-server": "^1.2.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+} 
